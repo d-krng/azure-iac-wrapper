@@ -2,6 +2,8 @@
 A simple Python wrapper for Infrastructure as Code with Azure
 
 Project Structur
+<img width="555" alt="image" src="https://github.com/user-attachments/assets/d95d0974-e35c-4e15-aa48-7b67a01212cd" />
+
 
 azure-iac-wrapper/
 ├── azure_wrapper/              # Hauptpaket
